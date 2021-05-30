@@ -3,6 +3,7 @@ package com.wxxy.bean;
 import java.math.BigDecimal;
 
 public class Book {
+    //
     private Integer id;
     private String name;
     private String author;
